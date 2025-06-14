@@ -1,4 +1,5 @@
 Note: Backflips/Backhops do not increase jump height, but rather manipulate the fighter's ECB to create different results.
+
 Note: Double Jump is Full Hop + DJ
 
 # Captain Falcon
