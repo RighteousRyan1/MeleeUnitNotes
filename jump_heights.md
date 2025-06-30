@@ -43,13 +43,13 @@ Note: Double Jump is Full Hop + DJ
 | Side-B (Air) (FS) | 27.58 |
 | Up-B (Air) | 37.787 |
 
-NS = __N__o __S__horten
+NS = No Shorten
 
-ML = __M__id-__L__ong
+ML = Mid-Long
 
-MS = __M__id-__S__hort
+MS = Mid-Short
 
-FS = __F__ull __S__horten
+FS = Full Shorten
 
 # Mario
 
