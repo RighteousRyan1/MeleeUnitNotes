@@ -36,12 +36,15 @@ Note: Double Jump is Full Hop + DJ
 | Side-B (Ground) (ML) | 60.54 |
 | Side-B (Ground) (MS) | 41.82 |
 | Side-B (Ground) (FS) | 23.1 |
+| Side-B (Ground->Air, NS) | 51.07 |
 | Side-B (Air) (NS) | 83.74 |
 | Side-B (Air, Drift) | 85.958 |
 | Side-B (Air) (ML) | 65.02 |
 | Side-B (Air) (MS) | 46.3 |
 | Side-B (Air) (FS) | 27.58 |
 | Up-B (Air) | 37.787 |
+
+NOTE: Ground->Air is before Fox loses height
 
 NS = No Shorten
 
