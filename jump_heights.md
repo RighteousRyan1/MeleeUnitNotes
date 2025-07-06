@@ -29,9 +29,9 @@ Note: Double Jump is Full Hop + DJ
 
 | Action | Distance (Units/Meters) |
 | -------- | ------- |
-| Full-Hop | 29 |
+| Full-Hop | 31.28 |
 | Short-Hop | 11.025 |
-| Double Jump | 55.7 |
+| Double Jump | 71.484 |
 | Side-B (Grounded) (NS) | 79.26 |
 | Side-B (Ground) (ML) | 60.54 |
 | Side-B (Ground) (MS) | 41.82 |
@@ -42,7 +42,7 @@ Note: Double Jump is Full Hop + DJ
 | Side-B (Air) (ML) | 65.02 |
 | Side-B (Air) (MS) | 46.3 |
 | Side-B (Air) (FS) | 27.58 |
-| Up-B (Air) | 37.787 |
+| Up-B (Air) | 84.55 |
 
 NOTE: Ground->Air is before Fox loses height
 
